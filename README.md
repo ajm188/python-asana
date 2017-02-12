@@ -187,3 +187,5 @@ Travis CI will automatically build and deploy the tagged release to `pypi`.
 
 [pypi-url]: https://pypi.python.org/pypi/asana/
 [pypi-image]: https://img.shields.io/pypi/v/asana.svg?style=flat-square
+
+[meta]: https://github.com/Asana/asana-api-meta
